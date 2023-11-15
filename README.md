@@ -7,6 +7,7 @@ This project showcases an elegant sunflower animation crafted using HTML, SCSS, 
   - [Prerequisites](#prerequisites)
   - [Installation Guide](#installation-guide)
   - [Running the SCSS File](#running-the-scss-file)
+  - [Screenshots](#screenshots)
 - [Questions and Support](#questions-and-support)
 
 ## Getting Started
@@ -47,10 +48,15 @@ If you haven't installed "Live Sass Compiler" in your code editor, please instal
 
 For more information on installing Node.js and npm, visit [Node.js](https://nodejs.org/en/) Downloads.
 
+## Screenshots
+![Screenshot 2023-11-14 132825](https://github.com/sreyounpann/HappyAnniversaryFlower/assets/83297826/6391701d-7f5c-4671-bde0-05726ca08085)
+
+  ![Screenshot 2023-11-14 132856](https://github.com/sreyounpann/HappyAnniversaryFlower/assets/83297826/8c052831-cf84-49e1-8c03-86f758389c07)
+
+
 ## Questions and Support
 If you have any questions or encounter issues, feel free to reach out to me on Instagram [yeowdoingood](https://www.instagram.com/yeowdoingood/).
-    ```bash 
-  Feel free to copy and paste this into your [README file](README.md)!
+    Feel free to copy and paste this into your [README file](README.md)!
 
 
 
