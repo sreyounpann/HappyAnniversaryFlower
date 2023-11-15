@@ -1,9 +1,57 @@
-# HappyAnniversaryFlower
-Language used (HTML / SCSS /JS)
-In order to run the scss file you must download extension called Live sass compiler. 
-Any question please reach out to me vai IG : yeowdoingood
+# Sunflower Animation
 
-#Project Screenshot 
+This project showcases an elegant sunflower animation crafted using HTML, SCSS, and JavaScript.
 
-![Screenshot 2023-11-14 132825](https://github.com/sreyounpann/HappyAnniversaryFlower/assets/83297826/262f77c2-f785-4a40-bdf2-0be02f015456)
-![Screenshot 2023-11-14 132856](https://github.com/sreyounpann/HappyAnniversaryFlower/assets/83297826/0aac154f-6749-4573-91fd-8c7f908fe9d0)
+## Table of Contents
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation Guide](#installation-guide)
+  - [Running the SCSS File](#running-the-scss-file)
+- [Questions and Support](#questions-and-support)
+
+## Getting Started
+
+### Prerequisites
+Ensure you have the following prerequisites installed before starting:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+### Installation Guide
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/sunflower-animation.git
+
+1. Navigate to the project directory.
+   ```bash
+   cd sunflower-animation
+   
+2. Install the required dependencies.
+   ```bash
+   npm install
+ # Running the SCSS File
+     To compile the SCSS file to CSS, follow these steps.
+1. Open a terminal in the project directory.
+2. Run the following command:
+     ```bash
+   npm run sass
+     
+This will use the "Live Sass Compiler" configured in the project to watch for changes in the SCSS file and compile it to CSS.
+
+3.Live Compilation: 
+Any changes made to the SCSS file will be automatically compiled to CSS.
+
+Note: Ensure you have Node.js and npm installed before running the commands above.
+
+If you haven't installed "Live Sass Compiler" in your code editor, please install it to enable live compilation of SCSS to CSS.
+
+For more information on installing Node.js and npm, visit [Node.js](https://nodejs.org/en/) Downloads.
+
+## Questions and Support
+If you have any questions or encounter issues, feel free to reach out to me on Instagram [yeowdoingood](https://www.instagram.com/yeowdoingood/).
+    ```bash 
+  Feel free to copy and paste this into your [README file](README.md)!
+
+
+
+   
