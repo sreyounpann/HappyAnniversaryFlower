@@ -21,7 +21,7 @@ Ensure you have the following prerequisites installed before starting:
 ### Installation Guide
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/sunflower-animation.git
+   git clone https://github.com/sreyounpann/HappyAnniversaryFlower.git
 
 1. Navigate to the project directory.
    ```bash
